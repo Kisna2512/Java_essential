@@ -3,7 +3,7 @@ class if_else{
         int a=10;
         if( a > 10)
         {
-            System.out.println("A i greater than 10");
+            System.out.println("a is greater than 10");
         }else{
           System.out.println("a less than 10 or equal to 10");
         }
